@@ -85,15 +85,3 @@ The game is built using modular components that represent core game elements suc
 
 - The game uses a **listener pattern** to decouple event handling (e.g., score updates, block/ball removal).
 - Designed with **modularity** and **clean OOP** principles for easy extension and maintenance.
-- You can add features like:
-  - Power-ups
-  - Multiple levels
-  - Sound effects
-  - Difficulty scaling
-
----
-
-## 📁 Project Status
-
-🟢 **Stable** – Functional and ready to play.  
-You are welcome to fork, play, and improve!
